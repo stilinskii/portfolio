@@ -18,8 +18,6 @@
 
 ## :pushpin: Projects
 
-</br>
-
 ### 1. KoreanBuddy
 
 (개인프로젝트)
@@ -51,5 +49,5 @@
 - 기술 스택:</br>
   Java 11 / Spring Boot / Gradle / Mybatis / Oracle /thymeleaf / bootstrap / JQuery / Ajax
 
-[내가 맡은부분 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe/tree/hayeong) </br>
+[내가 맡은부분 상세 설명](https://www.notion.so/2b96db2171524cc7ba16886a598ca1d2) </br>
 [프로젝트 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe)
