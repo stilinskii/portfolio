@@ -1,1 +1,55 @@
 # portfolio
+
+</br>
+
+## :pushpin: Intro
+
+- 이름: 임하영
+
+</br>
+
+## :pushpin: Contact
+
+- email : lhy1031hy@gmail.com
+- github : https://github.com/stilinskii
+- blog : https://herongmirong.tistory.com/
+
+</br>
+
+## :pushpin: Projects
+
+</br>
+
+### 1. KoreanBuddy
+
+(개인프로젝트)
+
+> 한국어 의사소통이 어려운 외국인 여행객과 외국인과 소통으로 언어를 연습하고싶어하는 한국인 매칭 및 축제 정보 제공 사이트.
+
+- 개발기간: 2022.07.11 ~ 2022.08
+
+- 기술 스택:</br>
+  Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL / H2 / MariaDB / Spring Security /thymeleaf / bootstrap / JQuery / Ajax
+
+[프로젝트 상세 설명](https://github.com/stilinskii/eventsinkorea)
+
+</br>
+
+---
+
+</br>
+
+### 2. 쩝쩝박사
+
+(팀프로젝트)
+
+> 요리 레시피 조회, 공유 / 재료구매 / 커뮤니티 게시판 기능이 있는 웹사이트
+
+- 포지션: 조장
+- 맡은부분 : 커뮤니티 게시판, 통합검색, 인덱스
+- 개발기간: 2022.07.20 ~ 2022.08
+- 기술 스택:</br>
+  Java 11 / Spring Boot / Gradle / Mybatis / Oracle /thymeleaf / bootstrap / JQuery / Ajax
+
+[내가 맡은부분 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe/tree/hayeong) </br>
+[프로젝트 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe)
