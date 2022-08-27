@@ -29,6 +29,9 @@
 - 기술 스택:</br>
   Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL / H2 / MariaDB / Spring Security /thymeleaf / bootstrap / JQuery / Ajax
 
+- Open API: </br>
+  한국 관광공사 Tour API, Google Maps API
+
 [프로젝트 상세 설명](https://github.com/stilinskii/eventsinkorea)
 
 </br>
@@ -43,11 +46,11 @@
 
 > 요리 레시피 조회, 공유 / 재료구매 / 커뮤니티 게시판 기능이 있는 웹사이트
 
-- 포지션: 조장
-- 맡은부분 : 커뮤니티 게시판, 통합검색, 인덱스
+- 개발인원: 5 (팀장)
+- 담당역할 : 커뮤니티 게시판, 통합검색, 인덱스 백,프론트 개발 </br>/ 기획 및 방향성 설정
 - 개발기간: 2022.07.20 ~ 2022.08
 - 기술 스택:</br>
   Java 11 / Spring Boot / Gradle / Mybatis / Oracle /thymeleaf / bootstrap / JQuery / Ajax
 
-[내가 맡은부분 상세 설명](https://www.notion.so/2b96db2171524cc7ba16886a598ca1d2) </br>
+[맡은부분 상세 설명](https://www.notion.so/2b96db2171524cc7ba16886a598ca1d2) </br>
 [프로젝트 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe)
