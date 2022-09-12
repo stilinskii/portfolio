@@ -53,4 +53,4 @@
   Java 11 / Spring Boot / Gradle / Mybatis / Oracle /thymeleaf / bootstrap / JQuery / Ajax
 
 [맡은부분 상세 설명](https://www.notion.so/2b96db2171524cc7ba16886a598ca1d2) </br>
-[프로젝트 상세 설명](https://github.com/stilinskii/jjeopjjeopRecipe)
+[프로젝트 코드보기](https://github.com/stilinskii/jjeopjjeopRecipe)
