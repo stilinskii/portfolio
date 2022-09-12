@@ -30,7 +30,7 @@
 - 개발기간: 2022.07.11 ~ 2022.08
 
 - 기술 스택:</br>
-  Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL / H2 / MariaDB / Spring Security /thymeleaf / bootstrap / JQuery / Ajax
+  Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL / H2 / MariaDB / Spring Security /thymeleaf / bootstrap / JQuery / Ajax / AWS
 
 - Open API: </br>
   한국 관광공사 Tour API, Google Maps API
