@@ -29,7 +29,7 @@
 테스트 아이디/비번 (관리자 권한O) : admin / admin123! -->
  
 
-- 개발기간: 2022.07.11 ~ 2022.08
+- 개발기간: 2022.07.11 ~ 2022.09.12
 
 - 기술 스택:</br>
   Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDSL / H2 / MariaDB / Spring Security /thymeleaf / bootstrap / JQuery / Ajax / AWS
@@ -41,7 +41,7 @@
 
 </br>
 
----
+
 
 </br>
 
@@ -53,9 +53,28 @@
 
 - 개발인원: 5 (팀장)
 - 담당역할 : 커뮤니티 게시판, 통합검색, 인덱스 백,프론트 개발 </br>/ 기획 및 방향성 설정
-- 개발기간: 2022.07.20 ~ 2022.09.02
+- 개발기간: 2022.07.20 ~ 2022.09.05
 - 기술 스택:</br>
   Java 11 / Spring Boot / Gradle / Mybatis / Oracle /thymeleaf / bootstrap / JQuery / Ajax / Swagger(Rest Api)
 
 [맡은부분 상세 설명](https://www.notion.so/2b96db2171524cc7ba16886a598ca1d2) </br>
 [프로젝트 코드보기](https://github.com/stilinskii/jjeopjjeopRecipe)
+
+
+
+</br>
+
+---
+
+### In Progress
+
+#####  MSA 구조를 가진 게시판
+
+- 개발기간: 2022.09.29 ~ ing
+- 기술 스택:</br>
+  Java 11 / Spring Boot / Gradle / Spring Data JPA / MySQL / Spring cloud / Eureka / JWT
+
+[github](https://github.com/stilinskii/MSA_SimpleBoard) </br>
+
+
+
