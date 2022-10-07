@@ -66,7 +66,7 @@
 
 ---
 
-### In Progress
+## :pushpin: In Progress
 
 #####  MSA 구조를 가진 게시판
 
