@@ -5,8 +5,13 @@
 ## :pushpin: Intro
 
 - 이름: 임하영
+- 기술스택
+
+![image](https://user-images.githubusercontent.com/96387509/194834773-eea0919a-e18f-4aec-b0c1-1a5e42c2509b.png)
 
 </br>
+
+
 
 ## :pushpin: Contact
 
