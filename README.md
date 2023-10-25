@@ -69,22 +69,6 @@
 
 </br>
 
----
-
-## :pushpin: In Progress
-
-#####  MSA 구조를 가진 게시판
-
-- 개발기간: 2022.09.29 ~ ing
-- 기술 스택:</br>
-  Java 11 / Spring Boot / Gradle / Spring Data JPA / QueryDsl / MySQL / Spring cloud / Eureka / JWT
-
-링크: https://board-app-test.herokuapp.com/swagger-ui.html
-
-이 링크로 들어가시면 제가 만든 게시판 Rest api들을  사용해보실 수 있습니다.
-
-
-[github](https://github.com/stilinskii/MSA_SimpleBoard) </br>
 
 
 
